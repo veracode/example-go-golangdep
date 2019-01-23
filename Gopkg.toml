@@ -36,3 +36,7 @@
 [[constraint]]
   name = "github.com/square/go-jose"
   revision = "7f0dd807d3f3d73bb536898cb7980ddf638ce69a"
+
+[[constraint]]
+  name = "golang.org/x/sys"
+  revision = "054c452bb702e465e95ce8e7a3d9a6cf0cd1188d"
