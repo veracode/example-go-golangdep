@@ -16,4 +16,4 @@ There are 2 ways to scan this project.
 1. git clone https://github.com/srcclr/example-go-golangdep/ $GOPATH/src/github.com/srcclr/example-go-golangdep/
 2. srcclr scan $GOPATH/src/github.com/srcclr/example-go-golangdep/
 ```
-test 12345
+test 123456
